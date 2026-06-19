@@ -7,7 +7,7 @@ Importer for Dagor Model Files (DMF) and Dagor Prop Layout (DPL) files generated
 Installation instructions are available in the [Releases tab](https://github.com/Gredwitch/Dagor-Asset-Explorer-Tools/releases).
 
 <div align="center">
-	<img src="https://i.imgur.com/ZMqcL1z.png" alt="Screenshot of the main window in action" width="80%" />
+	<img src="https://i.postimg.cc/1tVm7XL3/image-(8).png" alt="Screenshot of the main window in action" width="80%" />
 </div>
 
 ## Features
